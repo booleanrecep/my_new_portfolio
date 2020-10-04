@@ -1,6 +1,6 @@
 # React JS Resume Web App     
 ![ReactJS Resume Website](resume-screenshot.jpg?raw=true "ReactJS Resume Website")
-### <a href="https://recep.fed.netlify.app/">LIVE DEMO</a> 
+### <a href="https://recepfed.netlify.app/">LIVE DEMO</a> 
 
 ## Description
 Wellcome to my portfolio
