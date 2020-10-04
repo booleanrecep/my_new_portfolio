@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name":"Recep Öztürk",
+    "occupation":"Senior Literature Teacher & Junior Frontend Developer",
+    "description":"I blieve in hardworking, dedication and endeavor.",
+    "image":"recep.png",
+    "bio":"Since 2011 I am a Turkish Teacher. But in the eve of 2017 I put a goal: to learn programming. After searching a little bit I found a book about Python. I was reading it with always awake curiosity. I finished it in 2 months. With this book I felt in love with software knowledge. I was angry with myself why so far I just stuck at formatting computers and playing PC games! Later on I found courses in ISMEK (Istanbul Municipality Free Courses). I felt like ı found a boat in a stranded island. The courses I took: Python, WordPress, Oracle, HTML, CSS, JavaScript. In the meantime I joined Artificial Intelligence Course given by Sarıyer Municipality. I have got general information about data analyses, Twitter sentiment analyses, NLP. And I joined some Kaggle competitions. After that I found inzva community. I accepted their AI Project program. With a team of 5 people we tried to understand how bipedal-walker agent can learn and be thought to walk with reinforcement learning algorithm. In the end I felt I was scattering myself. Software is like an ocean and with the love of learning I was over-drinking from that ocean. So I decided to focus on and follow one way which I can really do: front-end development. In September of 2019 I applied to Front-end Development with React course which is provided by great NGO Re:Coded. The curriculum was consisted of Git, GitHub, HTML, CSS, JavaScript, React.js. In a 5 months of intense learning I successfully completed the course. In the end we made a real project with a team of 8 people.While doing this project we intensely used Git, GitLab, Slack, Notion, agile methodology. I know that learning is not a destination but a unending process. Especially in software. I am still in this process and trying to upgrade myself by staying up to date. ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "recep.fed@gmail.com",
+    "phone": "+90 553 209 3580",
+    "address":{
+      "street":"Maltepe",
+      "city":"Istanbul",
+      "state":"Turkey",
+      "zip": null
+    },
+    "website": "https://booleanrecep.github.io/",
+    "resumedownload":"https://docs.google.com/document/d/1RNRmWLAtYKzRgpnN8BfzxbKVFI9grTSvSkYyID25lmI/edit?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/recepteachion/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/booleanrecep",
+        "className":"fa fa-twitter"
+      },
+   
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/booleanrecep/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"http://github.com/booleanrecep",
+        "className":"fa fa-github"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":null,
+    "education":[
+      {
+        "school":"Fırat University?",
+        "degree":"Turkish Literature",
+        "graduated":"June 2011",
+        "description":null
+      },
+      {
+        "school":"Re:Coded NGO",
+        "degree":"Frontend Development With React.js",
+        "graduated":"May 2020",
+        "description":null
+      }
+    ],
+    "work":[
+      {
+        "company":"National Education Ministry",
+        "title":"Literature Teacher ",
+        "years":"September 2011 - Present",
+        "description":null
+      },
+      {
+        "company":"Re:Coded",
+        "title":"Junior Frontend Developer",
+        "years":"January 2020- May 2010",
+        "description":null
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"GraphQL",
+        "level":"50%"
+      },
+      {
+        "name":"Three.js",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      
+      {
+        "title":"A 3D Model Project",
+        "category":null,
+        "image":"threejs.PNG",
+        "url":"https://r3c3p.netlify.app/"
+      },
+      {
+        "title":"Portfolio with Material-UI",
+        "category":null,
+        "image":"old_portfoli.png",
+        "url":"https://booleanrecep.github.io/"
+      },
+      {
+        "title":"A Webapp to Teach Dialect of A Language",
+        "category":null,
+        "image":"ntk.PNG",
+        "url":"https://ntk.netlify.app/"
+      }        
+     
+    ]
+  }
+}
