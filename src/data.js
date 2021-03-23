@@ -17,16 +17,6 @@ export const data={
       "website": "https://booleanrecep.github.io/",
       "resume_link":"https://docs.google.com/document/d/1RNRmWLAtYKzRgpnN8BfzxbKVFI9grTSvSkYyID25lmI/edit?usp=sharing",
       "social":[
-        {
-          "name":"facebook",
-          "url":"https://www.facebook.com/recepteachion/",
-          "className":"fa fa-facebook"
-        },
-        {
-          "name":"twitter",
-          "url":"https://twitter.com/booleanrecep",
-          "className":"fa fa-twitter"
-        },
      
         {
           "name":"linkedin",
