@@ -7,9 +7,9 @@ export const data={
       "bio":"I am a ambitious front end develeoper. I am always on the way of learning new tecnologies.  I dedicate myself to learn a new things , to grasp a new aspect. I like to dive into prototype chain and understand what is happening behind the scene. Recently I am learning German.",
       "contactmessage":null,
       "email": "recep.fed@gmail.com",
-      "phone": "+90 553 209 3580",
+      "phone": "",
       "address":{
-        "street":"Maltepe",
+        "street":"",
         "city":"Istanbul",
         "state":"Turkey",
         "zip": null
